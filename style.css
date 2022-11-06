@@ -1,0 +1,30 @@
+happy{
+	text-align: center;
+}
+happy{
+	max-width: 200px;
+}
+sad{
+    text-align: center; 
+}
+sad{
+    max-width: 200px; 
+}
+h2{text-align: center;}
+h1{text-align: center;
+color:#ff0000}
+a {
+    color: #fffdfd; 
+    text-decoration: none; 
+   }
+   a:visited {
+    color: #ffffff; 
+   } 
+   a:hover {
+    color: #d70505; 
+    text-decoration: underline; 
+   }
+   body{background-color: #DBF9FC;}
+p{color:#ffffff}
+ul{color:#ffffff}
+h3{color:rgb(197, 230, 125)}
